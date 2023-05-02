@@ -7,4 +7,8 @@ https://api.openweathermap.org/data/3.0/onecall?lat={lat}&lon={lon}&exclude={par
 
 depe....
 
-geolocator, geocoding,sleek_circular_slider,http,get
+geolocator, geocoding,sleek_circular_slider,http,get,intl
+
+intl => date.
+
+flutter pub get
